@@ -10,9 +10,8 @@
 - 💻 Currently cooking: **Full-stack MERN Projects + Java & DSA**
 - 🧩 Competitive programmer (Codeforces, LeetCode – catch me at `SYL3R`)
 - 🛠️ Tech stack: `C++`, `Java`, `MongoDB`, `Express`, `React`, `Node`, `MySQL`
-- 🎓 Studying Engineering @ RCET
 - 💡 Always curious — building stuff that matters and learning the hard way.
-- 🎶 Might be debugging while listening to Arijit Singh.
+
 
 ---
 

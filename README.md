@@ -1,32 +1,88 @@
-<h1 align="center">Hey there, I'm Om Prakash Pati aka <code>SYL3R</code> 👋</h1>
+<h1 align="center">Hi, I'm Omprakash 👋</h1>
+
 <p align="center">
-  <em>MERN Full Stack Developer || C++ || JAVA || Machine Learning</em>
+  <strong>Full Stack Developer • AI Builder • Next.js Enthusiast</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Convex-4B44E3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inngest-F97316?style=for-the-badge&logo=zap" />
 </p>
 
 ---
 
-### 🧠 About Me
+## 🚀 About Me
 
-- 💻 Currently cooking: **Full-stack MERN Projects + Java & DSA**
-- 🧩 Competitive programmer (Codeforces, LeetCode – catch me at `SYL3R`)
-- 🛠️ Tech stack: `C++`, `Java`, `MongoDB`, `Express`, `React`, `Node`, `MySQL`
+I'm **Omprakash**, a passionate **full stack developer** who loves building  
+clean, fast, scalable, and AI-powered web applications.
 
+I focus on creating:
 
+- ⚡ High-performance full-stack apps  
+- 🤖 AI-integrated user experiences  
+- 🎨 Beautiful UI using Tailwind & shadcn/ui  
+- 🧩 Real-time systems using Convex  
+
+Currently working on **Splitzy** — a modern shared expense manager with real-time sync & AI insights.
 
 ---
 
-### 📊 My GitHub Stats
+## 🛠️ Tech Stack
+
+### **Frontend**
+- Next.js (App Router)  
+- TypeScript  
+- Tailwind CSS  
+- shadcn/ui  
+
+### **Backend**
+- Convex  
+- Node.js  
+- Inngest  
+- MongoDB / Prisma / SQL (comfortable)
+
+### **AI**
+- OpenAI  
+- Prompt engineering  
+- LLM integrations  
+
+### **Tools**
+- VS Code  
+- Git & GitHub  
+- Postman  
+- Figma  
+
+---
+
+## 📌 Featured Projects
+
+### 🔸 **Splitzy (2025)**  
+Real-time expense manager with AI insights.  
+**Stack:** Next.js, Convex, Tailwind, shadcn/ui, Inngest, Clerk  
+👉 _[Repo Link](https://github.com/Syl3r27/Splitzy)_  
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syl3r27&show_icons=true&theme=radical" alt="SYL3R's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=syl3r27&theme=radical&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Syl3r27&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syl3r27&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
+## 🔗 Connect With Me
 
-### 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-prakash-pati-6b730732a/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/syl3r/)  
+<p align="left">
+  <a href="https://github.com/Syl3r27"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+</p>
 
 ---
+
+<p align="center">✨ Building cool things, one project at a time ✨</p>
